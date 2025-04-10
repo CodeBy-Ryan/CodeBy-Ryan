@@ -30,19 +30,6 @@
 
   ---
 
-  ## 🌌 Explorando o meu progresso
-
-  ![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Codeby-Ryan&show_icons=true&theme=radical)
-
-  ---
-
-  ## 🧩 Curiosidades sobre mim
-
-  - 🎯 Sempre em busca de superar meus limites.
-  - 🌱 Apaixonado por tecnologia, Designer e Música.
-  - 📚 Compartilho meu conhecimento e também aprendo com a comunidade.
-
-  ---
 
   ## 🚀 Missão e Visão
 
