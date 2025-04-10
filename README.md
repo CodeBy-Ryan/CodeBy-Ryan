@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d0d61644-8bc2-4dd4-9b13-74f57f519416" alt="Minha capa" />
 
-  # 🌟 Bem-vindo ao meu Universo Digital!
+  # Bem-vindo ao meu Universo Digital!
 
-  ## ✨ Olá! Eu sou o **Ryan Rodrigues**
-  Sou um desenvolvedor movido pela curiosidade e pela paixão por aprender. Minha missão? Desbravar o universo do código, criar experiências inovadoras e transformar ideias em realidade. 🚀
+  ## Olá! Eu sou o **Ryan Rodrigues**
+  Sou um desenvolvedor movido pela curiosidade e pela paixão por aprender. Minha missão? Desbravar o universo do código, criar experiências inovadoras e transformar ideias em realidade. 
 
   ---
 
@@ -30,12 +30,6 @@
 
   ---
 
-
-  ## 🚀 Missão e Visão
-
-  Minha visão é ser um desenvolvedor que inspira outros a construírem o futuro através da tecnologia. Minha missão é colaborar para criar projetos que façam a diferença.
-
-  ---
 
   ## ⭐ "A melhor maneira de prever o futuro é criá-lo." — Abraham Lincoln
 
