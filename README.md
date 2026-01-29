@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d0d61644-8bc2-4dd4-9b13-74f57f519416" alt="Minha capa" />
+  <img src="https://github.com/user-attachments/assets/d6aa4f9c-e5ed-4048-b93f-4f4749cfac68" alt="Minha capa" />
 
   # Bem-vindo ao meu Universo Digital!
 
