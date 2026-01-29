@@ -5,18 +5,7 @@
 
 <br/>
 
-<!-- DYNAMIC TYPING EFFECT SIMULATION -->
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  > Compilando visão criativa com lógica de engenharia...   │
-│  > Carregando: UI/UX + React + Node.js + Inovação          │
-│  > Status: [████████████████████████] 100% - PRONTO        │
-└─────────────────────────────────────────────────────────────┘
-```
 
-<!-- <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ryan+Rodrigues;Full+Stack+Developer;UI%2FUX+Designer;Arquiteto+de+Experiências" alt="Typing SVG" />
-</h1> -->
 
 ### 🎯 **Designer que programa. Desenvolvedor que desenha.**
 > *De pixels no Photoshop aos pixels no código — transformando design em engenharia desde 2017*
@@ -78,107 +67,7 @@ const ryan = {
 
 </div>
 
----
 
-## 💡 O Que Eu Construo
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎨 **Front-end com Alma**
-- Interfaces que respiram UX
-- Animações que contam histórias
-- Responsividade pixel-perfect
-- Acessibilidade WCAG 2.1
-- Performance otimizada (Lighthouse 90+)
-
-</td>
-<td width="50%">
-
-### ⚙️ **Back-end com Propósito**
-- APIs RESTful escaláveis
-- Autenticação JWT + OAuth
-- WebSockets para real-time
-- Arquitetura MVC limpa
-- Testes unitários e integração
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎯 **UI/UX com Dados**
-- Design Systems completos
-- Prototipagem de alta fidelidade
-- User Research & Testes A/B
-- Wireframes & User Flows
-- Microinterações que encantam
-
-</td>
-<td width="50%">
-
-### 🚀 **Produtos Completos**
-- Do Figma ao Deploy
-- CRUDs inteligentes
-- Dashboards administrativos
-- Integrações com APIs
-- Documentação técnica clara
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🌊 Evolução Contínua
-
-```mermaid
-graph LR
-    A[Designer 14 anos] --> B[Social Media]
-    B --> C[Photoshop Avançado]
-    C --> D[Front-end Dev]
-    D --> E[Full Stack]
-    E --> F[Arquiteto de Soluções]
-    F --> G[...]
-    
-    style A fill:#E34F26
-    style C fill:#31A8FF
-    style E fill:#61DAFB
-    style G fill:#00D9FF
-```
-
-### 📊 Estatísticas de Aprendizado
-
-**2024-2025**: DevClub + Projetos Reais + ADS  
-**Foco Atual**: Arquitetura de Software + System Design + Padrões Avançados
-
-</div>
-
----
-
-## 🎯 Diferenciais Competitivos
-
-> **Não sou apenas mais um dev React ou designer no Figma.**
-
-| 🎨 Background Criativo | 🔧 Mentalidade de Engenheiro |
-|:---:|:---:|
-| 8 anos moldando estética | Código como obra de arte |
-| Olhar treinado para UI/UX | Estrutura antes da execução |
-| Entendo o **porquê** visual | Explico o **porquê** técnico |
-
-```typescript
-interface MeuDiferencial {
-  criatividade: "Photoshop desde 2017";
-  engenharia: "Full Stack desde 2022";
-  resultado: "Produtos que funcionam E encantam";
-  mindset: "Não faço telas bonitas. Construo soluções sustentáveis.";
-}
-
-// De "iniciante com medo" → profissional que entende decisões técnicas
-```
 
 ---
 
@@ -211,21 +100,9 @@ interface MeuDiferencial {
 
 <br/>
 
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║  "Código bem escrito é poesia para máquinas,                 ║
-║   mas também deve ser prosa clara para humanos."             ║
-║                                                               ║
-║                                          — Ryan Rodrigues    ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
 
 <sub>💻 Desenvolvido com ☕ café, 🎨 criatividade e 🧠 lógica em Aracaju, SE</sub>
 
----
 
-[![Profile Views](https://komarev.com/ghpvc/?username=seu-username&color=00D9FF&style=for-the-badge&label=VISITANTES+DO+PERFIL)](https://github.com/seu-username)
 
 </div>
